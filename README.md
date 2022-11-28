@@ -1,4 +1,8 @@
 # Rentweb3-docs ✨
+A platform where people can afford expensive web3 assets.
+
+Aming to be the `Unicorn Rental Protocol for Metaverse and web3 assets`.
+
 This is the beta version of the documentation for rent web3 until we launch it directly on the platform website.
 
 Try Navigating through
